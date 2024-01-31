@@ -1,5 +1,5 @@
  Hello! I'm Danish, a MERN stack maestro. I craft robust, scalable web apps with a keen eye for detail.
-
+```
  **Skills**: 
     - MERN Stack
     - HTML5, CSS3, JavaScript
@@ -15,3 +15,4 @@
  **Collaboration**: Open to innovation, ready to build intuitive UIs or optimize back-end functionality.
 
  **Connect**: Excited to connect with fellow tech enthusiasts! 👋
+```
