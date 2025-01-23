@@ -8,15 +8,15 @@ I’m **Danish Shaikh**, your friendly neighborhood **Web Developer** and **Cybe
 
 Coding has always been my happy place! From designing sleek web apps to brainstorming cybersecurity solutions, I thrive on solving challenges and building things that make life easier (or cooler 😉).  
 
-I’m currently pursuing my **Bachelor's in Information Technology (SPPU)** and gearing up to graduate in 2025. When I’m not coding, you’ll probably find me playing chess ♟️, solving puzzles 🧩, or diving into something new to learn.  
+I’m currently pursuing my Bachelor's in **Information Technology** at **SPPU** and gearing up to graduate in 2025. When I’m not coding, you’ll probably find me playing **chess** ♟️, solving **puzzles** 🧩, or diving into something new to learn.  
 
 ---
 
 ## 🌟 What I’m Up To  
 
-- 🚧 **Building Web Apps:** React, Node.js, and all things JavaScript are my playground.  
-- 🛡️ **Exploring Cybersecurity:** I’m diving into Identity Access Management (IAM) and best practices to make tech safer for everyone.  
-- 🌱 **Learning:** Constantly picking up new skills in tech, DSA, and beyond.  
+- 🚧 **Building Web Apps**: React, Node.js, and all things JavaScript are my playground.  
+- 🛡️ **Exploring Cybersecurity**: I’m diving into Identity Access Management (IAM) and best practices to make tech safer for everyone.  
+- 🌱 **Learning**: Constantly picking up new skills in tech, DSA, and beyond.  
 
 ---
 
@@ -24,11 +24,11 @@ I’m currently pursuing my **Bachelor's in Information Technology (SPPU)** and 
 
 Here are some cool things I’ve worked on:  
 
-### [AI Interview Mocker](https://github.com/danishskh70/ai-interview-mocker)  
-🎤 A full-stack project to help job seekers practice interviews with real-time AI feedback.  
+### 🎤 **[AI Interview Mocker](https://github.com/danishskh70/ai-interview-mocker)**  
+A full-stack project to help job seekers practice interviews with real-time AI feedback.  
 
-### [AquaYield Optimizer](https://github.com/danishskh70/aqua-yield-optimizer)  
-💧 A NASA Space Apps Challenge project to optimize water usage for farmers using real-time data.  
+### 💧 **[AquaYield Optimizer](https://github.com/danishskh70/aqua-yield-optimizer)**  
+A **NASA Space Apps Challenge** project to optimize water usage for farmers using real-time data.  
 
 ...and more! Check out my repos for the full story.  
 
@@ -46,11 +46,11 @@ I love meeting new people, collaborating on ideas, and geeking out over tech. Fe
 
 ## ✨ Fun Stuff  
 
-- 🧩 **Hobbies:** Chess, puzzles, and problem-solving in tech.  
-- 💡 **Fun Fact:** I built my first app while solving a random idea challenge with my friends—and I’ve been hooked on coding ever since!  
+- 🧩 **Hobbies**: Chess, puzzles, and problem-solving in tech.  
+- 💡 **Fun Fact**: I built my first app while solving a random idea challenge with my friends—and I’ve been hooked on coding ever since!  
 
 ---
 
-### 🎯 Final Words  
+## 🎯 Final Words  
 
 If you’ve made it this far, you’re awesome! 😎 I’m always looking to learn, grow, and collaborate on interesting projects. Let’s build something amazing together.  
