@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 🛡️
 
-![Cybersecurity Header](https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif)
+![Cybersecurity Header](https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif))
 
 
 I’m **Danish Shaikh**, your friendly neighborhood **Web Developer** and **Cybersecurity Enthusiast** 🚀. Here, you'll find a collection of my work, projects, and experiments as I explore the world of tech.  
