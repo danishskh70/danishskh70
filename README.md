@@ -1,61 +1,43 @@
-# Welcome to My GitHub Profile! 🛡️
+## Hi there! 👋
 
-![Cybersecurity Header](anti-hacking-ezgif.com-resize.gif))
+I'm Danish Shaikh, a passionate Web Developer and Cybersecurity Enthusiast. Currently pursuing my Bachelor's in Information Technology at SPPU. Excited to explore the world of technology and contribute to innovative projects!
 
+## About Me
 
+I am based in Sangamner, where I immerse myself in the realms of web development and cybersecurity. My journey began with a strong fascination for technology, leading me to engage in various projects and collaborations. I'm keen on expanding my skills and making a significant impact in the tech community.
 
+## Skills & Technologies
 
-I’m **Danish Shaikh**, your friendly neighborhood **Web Developer** and **Cybersecurity Enthusiast** 🚀. Here, you'll find a collection of my work, projects, and experiments as I explore the world of tech.  
+html,css,nodejs,express,mongodb,react,git,docker,graphql,tailwind,redux,bootstrap,jquery,flutter,java
 
----
+## Top Projects
 
-## 👨‍💻 About Me  
+- [AiInterviewMocker](https://github.com/danishskh70/AiInterviewMocker): An AI-driven mock interview platform. Stars: 0, Language: JavaScript, Forks: 0, Issues: 0
+- [BookStore_App](https://github.com/danishskh70/BookStore_App): A comprehensive application for managing a bookstore. Stars: 0, Language: CSS, Forks: 0, Issues: 0
+- [Farmer-Backend](https://github.com/danishskh70/Farmer-Backend): A backend application for agricultural management. Stars: 0, Language: JavaScript, Forks: 0, Issues: 0
+- [todo-app](https://github.com/danishskh70/todo-app): A simple To-Do app built with the MERN stack. Stars: 0, Language: JavaScript, Forks: 0, Issues: 0
+- [AdvancedML-PrecisionAgOptimizer](https://github.com/danishskh70/AdvancedML-PrecisionAgOptimizer): A machine learning solution for optimizing agriculture. Stars: 0, Language: Jupyter Notebook, Forks: 0, Issues: 0
 
-Coding has always been my happy place! From designing sleek web apps to brainstorming cybersecurity solutions, I thrive on solving challenges and building things that make life easier (or cooler 😉).  
+## GitHub Stats
 
-I’m currently pursuing my Bachelor's in **Information Technology** at **SPPU** and gearing up to graduate in 2025. When I’m not coding, you’ll probably find me playing **chess** ♟️, solving **puzzles** 🧩, or diving into something new to learn.  
+🔭 Public Repositories: 12
+👥 Followers: 0
+👤 Following: 1
 
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danishskh70&show_icons=true&theme=radical)
 
-## 🌟 What I’m Up To  
+## Recent Activity
 
-- 🚧 **Building Web Apps**: React, Node.js, and all things JavaScript are my playground.  
-- 🛡️ **Exploring Cybersecurity**: I’m diving into Identity Access Management (IAM) and best practices to make tech safer for everyone.  
-- 🌱 **Learning**: Constantly picking up new skills in tech, DSA, and beyond.  
+- Pushed to [Farmer-Backend](https://github.com/danishskh70/Farmer-Backend) on January 23, 2025
+- Created repository [AdvancedML-PrecisionAgOptimizer](https://github.com/danishskh70/AdvancedML-PrecisionAgOptimizer) on November 12, 2024
+- Updated [BookStore_App](https://github.com/danishskh70/BookStore_App) on November 26, 2024
+- Pushed to [AiInterviewMocker](https://github.com/danishskh70/AiInterviewMocker) on January 23, 2025
+- Started watching [Java_Full_Stack_Symbiosis](https://github.com/bhosalevivek04/Java_Full_Stack_Symbiosis) on December 31, 2024
 
----
+## Latest Blog Posts
 
-## 🏗️ My Projects  
+Currently, I do not have any blog posts to share, but I am eager to start documenting my learning journey and projects!
 
-Here are some cool things I’ve worked on:  
+## Connect with Me
 
-### 🎤 **[AI Interview Mocker](https://github.com/danishskh70/ai-interview-mocker)**  
-A full-stack project to help job seekers practice interviews with real-time AI feedback.  
-
-### 💧 **[AquaYield Optimizer](https://github.com/danishskh70/aqua-yield-optimizer)**  
-A **NASA Space Apps Challenge** project to optimize water usage for farmers using real-time data.  
-
-...and more! Check out my repos for the full story.  
-
----
-
-## 💬 Let’s Connect!  
-
-I love meeting new people, collaborating on ideas, and geeking out over tech. Feel free to reach out:  
-
-- 📧 **Email:** [danishskh70@gmail.com](mailto:danishskh70@gmail.com)  
-- 💼 **LinkedIn:** [Danish Shaikh](https://www.linkedin.com/in/danish-shaikh-262016265)  
-- 🐙 **GitHub:** [danishskh70](https://github.com/danishskh70)  
-
----
-
-## ✨ Fun Stuff  
-
-- 🧩 **Hobbies**: Chess, puzzles, and problem-solving in tech.  
-- 💡 **Fun Fact**: I built my first app while solving a random idea challenge with my friends—and I’ve been hooked on coding ever since!  
-
----
-
-## 🎯 Final Words  
-
-If you’ve made it this far, you’re awesome! 😎 I’m always looking to learn, grow, and collaborate on interesting projects. Let’s build something amazing together.  
+{"linkedin":"https://www.linkedin.com/in/danish-shaikh-262016265"}
