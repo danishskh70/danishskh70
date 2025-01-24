@@ -8,23 +8,23 @@ I am based in Sangamner, where I immerse myself in the realms of web development
 
 ## Skills & Technologies
 
-html,css,nodejs,express,mongodb,react,git,docker,graphql,tailwind,redux,bootstrap,jquery,flutter,java
+[![My Skills](https://skillicons.dev/icons?i=html,css,nodejs,express,mongodb,react,git,docker,graphql,tailwind,redux,bootstrap,jquery,flutter,java&perline=8)](https://skillicons.dev)
 
 ## Top Projects
 
-- [AiInterviewMocker](https://github.com/danishskh70/AiInterviewMocker): An AI-driven mock interview platform. Stars: 0, Language: JavaScript, Forks: 0, Issues: 0
-- [BookStore_App](https://github.com/danishskh70/BookStore_App): A comprehensive application for managing a bookstore. Stars: 0, Language: CSS, Forks: 0, Issues: 0
-- [Farmer-Backend](https://github.com/danishskh70/Farmer-Backend): A backend application for agricultural management. Stars: 0, Language: JavaScript, Forks: 0, Issues: 0
-- [todo-app](https://github.com/danishskh70/todo-app): A simple To-Do app built with the MERN stack. Stars: 0, Language: JavaScript, Forks: 0, Issues: 0
-- [AdvancedML-PrecisionAgOptimizer](https://github.com/danishskh70/AdvancedML-PrecisionAgOptimizer): A machine learning solution for optimizing agriculture. Stars: 0, Language: Jupyter Notebook, Forks: 0, Issues: 0
+[![AiInterviewMocker](https://github-readme-stats.vercel.app/api/pin/?username=danishskh70&repo=AiInterviewMocker&theme=dark)](https://github.com/danishskh70/AiInterviewMocker)
+[![BookStore_App](https://github-readme-stats.vercel.app/api/pin/?username=danishskh70&repo=BookStore_App&theme=dark)](https://github.com/danishskh70/BookStore_App)
+[![Farmer-Backend](https://github-readme-stats.vercel.app/api/pin/?username=danishskh70&repo=Farmer-Backend&theme=dark)](https://github.com/danishskh70/Farmer-Backend)
+[![todo-app](https://github-readme-stats.vercel.app/api/pin/?username=danishskh70&repo=todo-app&theme=dark)](https://github.com/danishskh70/todo-app)
+[![AdvancedML-PrecisionAgOptimizer](https://github-readme-stats.vercel.app/api/pin/?username=danishskh70&repo=AdvancedML-PrecisionAgOptimizer&theme=dark)](https://github.com/danishskh70/AdvancedML-PrecisionAgOptimizer)
 
 ## GitHub Stats
-
 🔭 Public Repositories: 12
 👥 Followers: 0
 👤 Following: 1
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danishskh70&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danishskh70&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Recent Activity
 
@@ -40,4 +40,4 @@ Currently, I do not have any blog posts to share, but I am eager to start docume
 
 ## Connect with Me
 
-{"linkedin":"https://www.linkedin.com/in/danish-shaikh-262016265"}
+<a href="https://www.linkedin.com/in/danish-shaikh-262016265" target="_blank" rel="noopener noreferrer"><Icon /> Linkedin</a>
