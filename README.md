@@ -1,3 +1,4 @@
+![Welcome Animation](https://sl.bing.net/k4FzosSpzxc)
 # Hey there! 👋 Welcome to my GitHub  
 
 I’m **Danish Shaikh**, your friendly neighborhood **Web Developer** and **Cybersecurity Enthusiast** 🚀. Here, you'll find a collection of my work, projects, and experiments as I explore the world of tech.  
