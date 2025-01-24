@@ -27,10 +27,6 @@ I am based in Sangamner, where I immerse myself in the realms of web development
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" alt="chrome logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
@@ -83,8 +79,3 @@ I don't have any blog posts yet, but I'm eager to start documenting my learning 
   </a>
 </div>
 
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/danishskh70/danishskh70/output/snake.svg" alt="Snake animation" />
-</div>
