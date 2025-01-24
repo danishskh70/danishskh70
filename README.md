@@ -1,43 +1,90 @@
-## Hi there! 👋
+<h1 align="center">Hi there! 👋 I'm Danish Shaikh</h1>
 
-I'm Danish Shaikh, a passionate Web Developer and Cybersecurity Enthusiast. Currently pursuing my Bachelor's in Information Technology at SPPU. Excited to explore the world of technology and contribute to innovative projects!
+<h2 align="center">
+  A passionate Web Developer and Cybersecurity Enthusiast. Currently pursuing my Bachelor's in Information Technology at SPPU. I'm excited to explore the world of technology and contribute to innovative projects!
+</h2>
 
-## About Me
+---
 
-I am based in Sangamner, where I immerse myself in the realms of web development and cybersecurity. My journey began with a strong fascination for technology, leading me to engage in various projects and collaborations. I'm keen on expanding my skills and making a significant impact in the tech community.
+### 🏠 About Me
+I am based in Sangamner, where I immerse myself in the realms of web development and cybersecurity. My journey began with a strong fascination for technology, leading me to engage in various projects and collaborations. I'm keen on expanding my skills and making a significant impact in the tech community.  
 
-## Skills & Technologies
+---
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,nodejs,express,mongodb,react,git,docker,graphql,tailwind,redux,bootstrap,jquery,flutter,java&perline=8)](https://skillicons.dev)
+### 🛠️ Skills & Technologies
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" alt="chrome logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
+</div>
 
-## Top Projects
+---
 
-[![AiInterviewMocker](https://github-readme-stats.vercel.app/api/pin/?username=danishskh70&repo=AiInterviewMocker&theme=dark)](https://github.com/danishskh70/AiInterviewMocker)
-[![BookStore_App](https://github-readme-stats.vercel.app/api/pin/?username=danishskh70&repo=BookStore_App&theme=dark)](https://github.com/danishskh70/BookStore_App)
-[![Farmer-Backend](https://github-readme-stats.vercel.app/api/pin/?username=danishskh70&repo=Farmer-Backend&theme=dark)](https://github.com/danishskh70/Farmer-Backend)
-[![todo-app](https://github-readme-stats.vercel.app/api/pin/?username=danishskh70&repo=todo-app&theme=dark)](https://github.com/danishskh70/todo-app)
-[![AdvancedML-PrecisionAgOptimizer](https://github-readme-stats.vercel.app/api/pin/?username=danishskh70&repo=AdvancedML-PrecisionAgOptimizer&theme=dark)](https://github.com/danishskh70/AdvancedML-PrecisionAgOptimizer)
+### 📌 Top Projects
+- **[AiInterviewMocker](#):** A full-stack platform simulating AI-driven interview scenarios.  
+- **[AdvancedML-PrecisionAgOptimizer](#):** Leveraging ML to enhance agricultural practices.  
+- **[BookStore_App](#):** A dynamic web application for managing book inventory and sales.  
+- **[Farmer-Backend](#):** An API for farmer-specific functionalities, including weather-based notifications.  
 
-## GitHub Stats
-🔭 Public Repositories: 12
-👥 Followers: 0
-👤 Following: 1
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danishskh70&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danishskh70&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=danishskh70&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danishskh70&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-## Recent Activity
+---
 
-- Pushed to [Farmer-Backend](https://github.com/danishskh70/Farmer-Backend) on January 23, 2025
-- Created repository [AdvancedML-PrecisionAgOptimizer](https://github.com/danishskh70/AdvancedML-PrecisionAgOptimizer) on November 12, 2024
-- Updated [BookStore_App](https://github.com/danishskh70/BookStore_App) on November 26, 2024
-- Pushed to [AiInterviewMocker](https://github.com/danishskh70/AiInterviewMocker) on January 23, 2025
-- Started watching [Java_Full_Stack_Symbiosis](https://github.com/bhosalevivek04/Java_Full_Stack_Symbiosis) on December 31, 2024
+### 🔄 Recent Activity
+- **Pushed to Farmer-Backend:** Added weather-based alert feature.  
+- **Updated BookStore_App:** Enhanced search functionality for books.  
+- **Pushed to AiInterviewMocker:** Updated backend integrations for AI models.  
+- **Created AdvancedML-PrecisionAgOptimizer:** An ML-based precision agriculture solution.  
 
-## Latest Blog Posts
+---
 
-Currently, I do not have any blog posts to share, but I am eager to start documenting my learning journey and projects!
+### 📚 Latest Blog Posts
+I don't have any blog posts yet, but I'm eager to start documenting my learning journey and projects. Stay tuned!  
 
-## Connect with Me
+---
 
-<a href="https://www.linkedin.com/in/danish-shaikh-262016265" target="_blank" rel="noopener noreferrer"><Icon /> Linkedin</a>
+### 📬 Connect with Me
+<div align="center">
+  <a href="https://www.linkedin.com/in/danish-shaikh-262016265" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
+  </a>
+  <a href="mailto:danishskh70@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/danishskh70/danishskh70/output/snake.svg" alt="Snake animation" />
+</div>
