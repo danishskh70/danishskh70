@@ -1,5 +1,7 @@
-![Welcome Animation]([https://pit-un.org/wp-content/uploads/2023/06/CYBERSECURITY_HEADER_ANI.gifhttps://sl.bing.net/k4FzosSpzxc](https://www.bing.com/images/search?view=detailV2&ccid=LdpBU0me&id=5DB61D6E00E543EF73E852991BF327860367BCA4&thid=OIP.LdpBU0menEazrjlTsetraAHaEK&mediaurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.2dda4153499e9c46b3ae3953b1eb6b68%3frik%3dpLxnA4Yn8xuZUg%26riu%3dhttp%253a%252f%252fadcy.io%252fwp-content%252fuploads%252f2020%252f04%252fanti-hacking.gif%26ehk%3deDJ%252fGz5HpgSukD6QJVR7QbTd%252b47Li2oppZpf0X5XKRA%253d%26risl%3d%26pid%3dImgRaw%26r%3d0&exph=281&expw=500&q=cyber+security+header+gifs&simid=608011814968779456&FORM=IRPRST&ck=6C78D149C4828F3027268B9502B14FA4&selectedIndex=41&itb=0))
-# Hey there! 👋 Welcome to my GitHub  
+# Welcome to My GitHub Profile! 🛡️
+
+![Cybersecurity Header](https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif)
+
 
 I’m **Danish Shaikh**, your friendly neighborhood **Web Developer** and **Cybersecurity Enthusiast** 🚀. Here, you'll find a collection of my work, projects, and experiments as I explore the world of tech.  
 
