@@ -1,6 +1,6 @@
 ![Header](./github-header-image.png)
 <h2 align="center">
-  A passionate Web Developer and Cybersecurity Enthusiast. Currently pursuing my Bachelor's in Information Technology at SPPU. I'm excited to explore the world of technology and contribute to innovative projects!
+  Currently pursuing my Bachelor's in Information Technology at SPPU. I'm excited to explore the world of technology and contribute to innovative projects!
 </h2>
 
 ---
