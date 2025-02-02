@@ -40,7 +40,7 @@ I am based in Sangamner, where I immerse myself in the realms of web development
 ---
 
 ### 📌 Top Projects
-- **[AiInterviewMocker](#/AiInterviewMocker):** A full-stack platform simulating AI-driven interview scenarios.  
+- **[AiInterviewMocker]([#/AiInterviewMocker](https://github.com/danishskh70/danishskh70/AiInterviewMocker)):** A full-stack platform simulating AI-driven interview scenarios.  
 - **[AdvancedML-PrecisionAgOptimizer](#):** Leveraging ML to enhance agricultural practices.  
 - **[BookStore_App](#):** A dynamic web application for managing book inventory and sales.  
 - **[Farmer-Backend](#):** An API for farmer-specific functionalities, including weather-based notifications.  
