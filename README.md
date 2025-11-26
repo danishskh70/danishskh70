@@ -649,13 +649,29 @@ const recentActivity = {
 
 <br/>
 
-<p align="center">
-  <strong>🚀 Always excited to work on innovative projects and solve challenging problems!</strong><br/>
-  <em>Let's build something amazing together!</em>
-</p>
+<!-- Coding Philosophy Section -->
+<div>
+  <img align="right" alt="Coding Philosophy" width="350" src="https://user-images.githubusercontent.com/74038190/216122141-67c5c93f-7d0d-4a3a-8f47-7c7c7c7c7c7c.gif" style="margin-left: 20px;"/>
+  
+  <h2>
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" height="32px"> 
+    Coding Philosophy
+  </h2>
+  
+  <br/>
+  
+  - 🔒 **Security First**: Building applications with security as the foundation
+  - ⚡ **Performance Matters**: Optimized code for better user experiences
+  - 🎯 **Clean Architecture**: Maintainable and scalable code structure
+  - 🔄 **Continuous Learning**: Always evolving with new technologies
+  - 🤝 **Collaborative Spirit**: Open to feedback and team contributions
+  - 📝 **Documentation Driven**: Clear documentation for better maintainability
+  - 🚀 **Innovation Focused**: Exploring cutting-edge solutions
 
+  <br/>
 </div>
 
+<br clear="right"/>
 <br/>
 
 <!-- Animated Line Break -->
@@ -663,25 +679,52 @@ const recentActivity = {
 
 <br/>
 
-<!-- Footer with Wave -->
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!%20✨&fontSize=40&fontAlignY=65&animation=twinkling&fontColor=fff" />
+<!-- Skills Progress Section -->
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" height="32px"> 
+  Skills Proficiency
+</h2>
 
 <br/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=500&height=30&lines=Building+the+future%2C+one+commit+at+a+time+🚀;Security+First%2C+Code+Always+🔐;Open+to+collaborations+and+new+opportunities+🤝" alt="Footer Animation" />
-</p>
+<div align="center">
 
-<p align="center">
-  <strong>📧 Email:</strong> danishskh70@gmail.com | 
-  <strong>💼 LinkedIn:</strong> Danish Shaikh | 
-  <strong>🐙 GitHub:</strong> danishskh70
-</p>
+```typescript
+const skills = {
+    programming: {
+        "JavaScript/TypeScript": "90%",
+        "Python": "85%",
+        "Java": "80%",
+        "C++": "75%"
+    },
+    webDevelopment: {
+        "React.js": "88%",
+        "Node.js": "85%",
+        "HTML/CSS": "92%",
+        "REST APIs": "87%"
+    },
+    databases: {
+        "MongoDB": "83%",
+        "MySQL": "80%",
+        "PostgreSQL": "78%"
+    },
+    cybersecurity: {
+        "Cryptography": "82%",
+        "Network Security": "79%",
+        "Penetration Testing": "76%"
+    }
+};
+```
+<!-- Skills Badges -->
+<h3>🚀 Technical Proficiencies</h3> <br/> <p> <img src="https://img.shields.io/badge/FullStack-90%25-61DAFB?style=for-the-badge&logo=stackoverflow&logoColor=white" /> <img src="https://img.shields.io/badge/React-88%25-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Node.js-85%25-339933?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Python-85%25-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Security-82%25-FF6B6B?style=for-the-badge&logo=shield&logoColor=white" /> </p></div>
+<!-- Animated Line Break --><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- Final Call to Action --><div align="center"><h2> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" height="32px"> Ready to Create Something Amazing? </h2>
+<img src="https://user-images.githubusercontent.com/74038190/216124129-f3e2d6f7-2745-4388-9e7a-0e2d0c6f4313.png" alt="Let's Connect" width="400" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Made%20with%20❤️%20by-Danish%20Shaikh-ff69b4?style=for-the-badge" alt="Made with love" />
-</p>
 
-</div>
+
+<p align="center"> <strong>🚀 Always excited to work on innovative projects and solve challenging problems!</strong><br/> <em>Let's build something amazing together! Whether it's a startup idea, open-source contribution, or enterprise solution.</em> </p>
+<!-- Contact Buttons --><p align="center"> <a href="mailto:danishskh70@gmail.com"> <img src="https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email Me"/> </a> <a href="https://linkedin.com/in/danish-shaikh-262016265" target="_blank"> <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn"/> </a> <a href="https://github.com/danishskh70" target="_blank"> <img src="https://img.shields.io/badge/View_My_Work-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub"/> </a> </p></div>
+<!-- Animated Line Break --><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- Footer with Wave --><div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!%20✨&fontSize=40&fontAlignY=65&animation=twinkling&fontColor=fff" />
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=500&height=30&lines=Building+the+future%2C+one+commit+at+a+time+🚀;Security+First%2C+Code+Always+🔐;Open+to+collaborations+and+new+opportunities+🤝" alt="Footer Animation" /> </p><p align="center"> <strong>📧 Email:</strong> danishskh70@gmail.com | <strong>💼 LinkedIn:</strong> Danish Shaikh | <strong>🐙 GitHub:</strong> danishskh70 </p><p align="center"> <img src="https://img.shields.io/badge/Made%20with%20❤️%20by-Danish%20Shaikh-ff69b4?style=for-the-badge" alt="Made with love" /> </p></div> 
